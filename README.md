@@ -4,6 +4,14 @@
 Glad you asked. I've graduated with a degree in Electrical Engineering & Embedded Systems from the E.T.T.I section of the University Politehnica of Bucharest. While my academic journey through transistors and embedded firmware was "cool", I've started working into other types of software development, such as web development and video games.
 I consider myself a hard-working individual who's passionate about the projects I work on. I love exploring new technologies and collaborating with teams to leverage them in solving real-life problems. Also, I have two cockatiels! 🦜🦜
 
+### 🧐 More About Me:
+- 🔭 &nbsp; I’m currently working on **godot 2D game**
+- 🤝 &nbsp; I’m looking to collaborate in web & games projects
+- 🌱 &nbsp; I'm learning software most of my time, from general concepts to simple/medium projects.
+- 💬 &nbsp; Ask me about anything, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vlad-penescu/)
+- 🔧 &nbsp; Also I am trying to install Arch
+
 ### Languages & Tools Preference
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)

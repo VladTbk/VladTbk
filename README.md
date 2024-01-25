@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Buna siua (Hello World)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Languages & Tools Preference
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)

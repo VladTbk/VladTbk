@@ -10,9 +10,8 @@ I consider myself a hard-working individual who's passionate about the projects 
 - 🌱 &nbsp; I'm learning software most of my time, from general concepts to simple/medium projects.
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vlad-penescu/)
-- 🔧 &nbsp; Also I am trying to install Arch
+- 🔨 &nbsp; Also I am trying to install Arch
   
-<br>
 
 ### Languages & Tools Preference
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)

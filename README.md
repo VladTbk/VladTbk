@@ -1,4 +1,9 @@
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width ="24px"> Buna siua (Hello World)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+### Who am I?
+Glad you asked. I've graduated with a degree in Electrical Engineering & Embedded Systems from the E.T.T.I section of the University Politehnica of Bucharest. While my academic journey through transistors and embedded firmware was "cool", I've started working into other types of software development, such as web development and video games.
+I consider myself a hard-working individual who's passionate about the projects I work on. I love exploring new technologies and collaborating with teams to leverage them in solving real-life problems.Also, I have two cockatiels! 🦜🦜
+
 ### Languages & Tools Preference
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)

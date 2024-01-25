@@ -13,6 +13,7 @@ I consider myself a hard-working individual who's passionate about the projects 
 - 🔧 &nbsp; Also I am trying to install Arch
   
 <br>
+
 ### Languages & Tools Preference
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)

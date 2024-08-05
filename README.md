@@ -5,8 +5,8 @@ Glad you asked. I've graduated with a degree in Electrical Engineering & Embedde
 I consider myself a hard-working individual who's passionate about the projects I work on. I love exploring new technologies and collaborating with teams to leverage them in solving real-life problems. Also, I have two cockatiels! 🦜🦜
 
 ###  More About Me:
-- 🔭 &nbsp; I’m currently working on **ML stuff** and a **Web projects**
-- 🤝 &nbsp; I’m looking to collaborate in ML & web & games projects
+- 🔭 &nbsp; I’m currently working on **Software stuff** and a **Game projects**
+- 🤝 &nbsp; I’m looking to collaborate in Software & games & web* projects
 - 🌱 &nbsp; I'm learning software most of my time, from general concepts to simple/medium projects.
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vlad-penescu/)
